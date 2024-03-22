@@ -1,3 +1,4 @@
 https://raw.githubusercontent.com/Igeling/proxys/main/socks5.txt
 https://raw.githubusercontent.com/casals-ar/proxy-list/main/socks5
 https://raw.githubusercontent.com/Igeling/proxys/main/socks5.txt
+https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt
