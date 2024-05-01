@@ -1,1 +1,6 @@
 https://raw.githubusercontent.com/Igeling/proxys/main/https.txt
+https://raw.githubusercontent.com/BreakingTechFr/Proxy_Free/main/proxies/http.txt
+https://raw.githubusercontent.com/Vann-Dev/proxy-list/main/proxies/https.txt
+https://raw.githubusercontent.com/Vann-Dev/proxy-list/main/proxies/http.txt
+https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/https.txt
+https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/http.txt
