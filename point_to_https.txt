@@ -7,3 +7,4 @@ https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/http.txt
 https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/https.txt
 https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
 https://raw.githubusercontent.com/r00tee/Proxy-List/main/Https.txt
+https://raw.githubusercontent.com/azis-alvriyanto/fresh-proxy-list/archive/storage/classic/https.txt
