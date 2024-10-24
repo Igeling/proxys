@@ -1,1 +1,0 @@
-https://raw.githubusercontent.com/Igeling/proxys/refs/heads/main/tor_access.txt
