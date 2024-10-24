@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/Igeling/proxys/refs/heads/main/tor_access.txt
+https://raw.githubusercontent.com/Igeling/proxys/refs/heads/main/socks5.txt
