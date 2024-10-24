@@ -1,1 +1,2 @@
 https://raw.githubusercontent.com/Igeling/proxys/refs/heads/main/socks5.txt
+https://raw.githubusercontent.com/azis-alvriyanto/fresh-proxy-list/archive/storage/classic/socks5.txt
